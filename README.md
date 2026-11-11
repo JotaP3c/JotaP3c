@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**JotaP3c/JotaP3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! 
 
-Here are some ideas to get you started:
+I'm João Pedro, a Full Stack Developer currently working at **Senior Sistemas**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my day-to-day work involves **Java, Spring Boot, Angular, and TypeScript**. I mainly work on developing and maintaining applications, building APIs, integrating different systems, and dealing with business rules.
+
+I enjoy working on both backend and frontend, although I tend to spend more time on the backend. I also like understanding how things work behind the scenes, especially when it comes to solving problems and improving existing code.
+
+Outside of work, I enjoy building my own projects. It's a good way for me to try out new technologies, put ideas into practice, and learn things I don't always get to use at work.
+
+I'm currently studying **Systems Analysis and Development**, and I'm always looking to improve my skills and become a better developer.
